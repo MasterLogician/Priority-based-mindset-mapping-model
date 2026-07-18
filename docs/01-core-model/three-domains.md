@@ -34,9 +34,9 @@ Their healthy movement is reciprocal. Dignity gives Recognition something real t
 
 Stability concerns the preservation of coherence under danger, uncertainty, conflict, and change.
 
-**Security** stabilizes through boundaries. It prepares, protects, deters, watches, separates, and preserves continuity.
+**Security** is the priority placed on external threats to stability. It appears as attention to danger, boundaries, protection, vigilance, deterrence, preparation, redundancy, and control of exposure.
 
-**Harmony** stabilizes through relationship. It coordinates, reconciles, builds trust, reduces friction, and keeps the parts of a system moving together.
+**Harmony** is the priority placed on relational coherence. It appears as attention to trust, cooperation, coordination, reconciliation, shared rhythm, and friction between parts of a system.
 
 Security without Harmony builds walls until nothing living can pass through them. Harmony without Security keeps the peace by surrendering the conditions that make peace possible.
 
