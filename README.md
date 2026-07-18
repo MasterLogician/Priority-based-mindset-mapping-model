@@ -26,7 +26,11 @@ Recurring shapes in that landscape become archetypal masks: King, Fool, Steward,
 The deeper question is not which mask a person *is*, but whether they can enter the mask reality demands and leave before it takes the throne.
 
 ```text
-FUNCTION  →  SPECIALIZATION  →  MONOPOLY  →  CAPTURE
+FUNCTION  →  SPECIALIZATION
+                    │
+          if it rejects correction
+                    ↓
+               MONOPOLY  →  CAPTURE
 ```
 
 A strong priority is not a sickness. It becomes corrupt when it stops serving the whole and begins recruiting the whole into serving it. The same pattern can fracture a person or scale outward into ideological factions that no longer recognize one another as organs of a shared body.
