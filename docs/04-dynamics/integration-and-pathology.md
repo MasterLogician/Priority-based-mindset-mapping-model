@@ -1,254 +1,105 @@
-# Integration, Capture, and Social Pathology
+# Capture and Integration
 
-PBMM becomes more than a typology when the archetypes are treated as functions within a larger whole.
+A strong priority is not a sickness. A mask becomes dangerous when it refuses to leave.
 
-The central claim of this chapter is:
+```text
+FUNCTION  →  SPECIALIZATION  →  MONOPOLY  →  CAPTURE
+```
 
-> **Health requires integration across the priority system. Pathology emerges when one partial function attempts to become the whole.**
+Every archetype carries a partial truth. The King sees dignity and rightful order. The Paladin sees danger, duty, and the cost of weak boundaries. The Great Mother sees vulnerability and the need for belonging. The Fool sees openings that caution would miss. The Steward remembers what must be preserved.
 
-## Individual integration
+The truth becomes pathological when it claims the whole field.
 
-A psychologically healthy person does not eliminate strong priorities or archetypal masks.
-
-They can:
-
-- access several functions;
-- select a configuration appropriate to reality;
-- receive correction from neglected priorities;
-- leave a mask once its task is complete;
-- and preserve a coherent identity larger than any single role.
-
-The Fool, King, Paladin, Great Mother, Steward, Trickster, and other masks all have legitimate functions.
-
-The problem begins when one mask becomes compulsory.
+> **A function becomes corrupt when life no longer employs it and it begins employing life.**
 
 ## Capture
 
-A priority or archetype captures the psyche when it:
+A captured mask interprets nearly every situation through its own priority. It recruits the remaining faculties as servants, rejects their corrective signals, and turns its characteristic threat into a permanent emergency.
 
-1. defines nearly every situation in its own terms;
-2. recruits other priorities as servants;
-3. rejects evidence supplied by competing functions;
-4. turns its characteristic threat into a permanent emergency;
-5. and confuses its local truth with the truth of the whole.
+The captured King experiences correction as humiliation. The captured Paladin experiences ambiguity as betrayal. The captured Great Mother experiences separation as harm. The captured Fool experiences limits as imprisonment and completion as the death of possibility. The captured Steward experiences experiment as irresponsible loss.
 
-A captured King interprets correction as humiliation.
+None of these perceptions is invented from nothing. Each begins with something real. Pathology lies in monopoly.
 
-A captured Paladin interprets ambiguity as danger or betrayal.
+Capture also produces its own evidence. Excessive Security suppresses disagreement, hides information, and creates the insecurity used to justify more control. Recognition dependence weakens the dignity it tries to prove, increasing the hunger for another witness. Endless Acquisition prevents restoration, creates depletion, and makes further Acquisition feel urgent.
 
-A captured Great Mother interprets separation as abandonment or harm.
+The loop wounds the system, then presents the wound as proof that the loop must continue.
 
-A captured Fool interprets limits as imprisonment and completion as death of possibility.
+## Fragmentation
 
-A captured Steward interprets experimentation as irresponsible loss.
+A psyche can be captured by one mask, but it can also fracture into masks that no longer recognize one another as parts of the same person.
 
-Each configuration contains a legitimate perception. Pathology lies in monopoly.
+The inner Paladin condemns the Fool as reckless. The Fool mocks the Steward as dead. The Great Mother experiences dignity and separation as cruelty. The King experiences dependence and care as humiliation.
 
-## Virtue and corruption
+Each function builds a case against the others. Lessons learned in one state fail to cross into the next. The person changes roles, and with the role changes memory, values, posture, and permission.
 
-A priority is virtuous when it serves life in proper proportion and relationship to the whole.
+This is internal ideological war.
 
-A priority is corrupted when the person or system is made to serve it.
+Integration does not silence the factions. It restores communication and command.
 
-> **Virtue allows the priority to serve life. Corruption recruits life to serve the priority.**
+## The center
 
-Corruption can take several forms:
+The integrating center is not a nineteenth archetype competing for office.
 
-### Hypertrophy
+It is the capacity to hear several priorities without being possessed by the loudest one; to judge timing and proportion; to preserve continuity across masks; to enter a configuration deliberately; and to leave when its task is complete.
 
-A function becomes disproportionately strong.
+Call it conscience, soul, self, practical wisdom, or observing awareness. The metaphysical name can remain open while the function is clear.
 
-### Deficiency
+> **The mask says: this matters. The center must decide how much, when, and at what cost.**
 
-A necessary function remains unavailable or chronically suppressed.
+A mature person is not permanently balanced. Reality does not ask for equal weights. War calls for Security. Grief calls for Comfort and Harmony. Creation may require the Fool. Responsibility may require the Steward or King.
 
-### Misordering
+Health is not stillness at the center of the map. It is freedom of movement without loss of sovereignty.
 
-A supporting priority becomes the final end, or a final end is reduced to a mere instrument.
+## Archetypal civil war
 
-### Fear-driven capture
+The same pattern appears in society.
 
-The system treats deprivation of one priority as catastrophic and reorganizes everything around preventing it.
+A civilization needs differentiated functions. A military must weight Security differently from a hospice. A court organizes Dignity and Recognition differently from a workshop. A household, monastery, laboratory, market, and festival each hold a different part of human life.
 
-### Closed feedback
+Specialization is not the danger. A society becomes sick when a specialized function mistakes its local duty for universal moral law.
 
-A priority produces conditions that appear to confirm its own necessity.
+The Paladin warns that boundaries and duty cannot be wished away. The Great Mother warns that order without care becomes inhuman. The King carries legitimacy and standards. The Trickster exposes hypocrisy and dead form. The Architect turns intention into structure. The Empress asks whether material life has become fertile and inhabitable.
 
-Examples:
-
-- excessive Security suppresses disagreement, conceals information, and thereby creates more insecurity;
-- Recognition dependence produces performative behavior, weakens Dignity, and increases the need for further Recognition;
-- endless Acquisition prevents restoration, creates depletion, and makes further Acquisition feel urgent.
-
-## Psychological fragmentation
-
-An unintegrated person may not only be dominated by one mask. Different masks may become isolated from one another.
-
-The person can then experience:
-
-- contradictory selves;
-- sudden shifts in values and behavior;
-- inability to transfer learning between contexts;
-- shame or disgust toward disowned functions;
-- and internal ideological war.
-
-The inner Paladin condemns the Fool as irresponsible.
-
-The Fool mocks the Steward as dead and cowardly.
-
-The Great Mother experiences Dignity and separation as cruelty.
-
-The King experiences dependence and care as humiliation.
-
-Integration does not erase these tensions. It creates a higher order capable of coordinating them.
-
-## The integrating center
-
-PBMM's eighteen masks imply a question about what stands above them.
-
-Possible names include:
-
-- self;
-- soul;
-- conscience;
-- spirit;
-- practical wisdom;
-- observing awareness;
-- or an integrating symbolic center.
-
-PBMM does not need to settle the metaphysical identity of this center in order to describe its function.
-
-The integrating center must be able to:
-
-- hear competing priorities;
-- judge proportion and timing;
-- preserve continuity across masks;
-- tolerate internal conflict;
-- and prevent a partial function from claiming absolute sovereignty.
-
-Meditation, reflection, ritual, therapy, disciplined practice, and deliberate mask work may strengthen this capacity.
-
-## Society as an archetypal ecology
-
-A society also requires differentiated functions.
-
-It needs:
-
-- legitimacy and standards;
-- defense and boundaries;
-- care and social cohesion;
-- production and exploration;
-- preservation and restoration;
-- criticism and disruption;
-- symbolic meaning;
-- and institutional memory.
-
-These functions may be carried by different roles, institutions, classes, parties, professions, or traditions.
-
-Specialization is not itself pathology. A military should weight Security differently from a hospice. A court should weight Dignity and Recognition differently from a workshop.
-
-The danger appears when specialization becomes moral absolutism.
-
-## Archetypes at ideological war
-
-Political and cultural conflict may be interpreted partly as archetypal civil war.
-
-Each faction carries a partial truth:
-
-- the Paladin warns that boundaries, duty, and defense cannot be wished away;
-- the Great Mother warns that a system without care, belonging, and protection of vulnerability becomes inhuman;
-- the King warns that legitimacy, dignity, and ordered authority matter;
-- the Trickster exposes hypocrisy, rigidity, and false claims to permanence;
-- the Architect insists that intentions require systems, capability, and form;
-- the Empress insists that material life must become abundant, fertile, beautiful, and inhabitable.
-
-Pathology begins when a faction declares:
+Civil war begins when each says:
 
 > **I am not one necessary function among others. I am the moral truth of the whole.**
 
-The remaining archetypes are then reframed not as correctives but as enemies.
+Then correction becomes attack. Boundaries become cruelty. Care becomes weakness. Dignity becomes domination. Criticism becomes treason. Preservation becomes cowardice. Experiment becomes desecration.
 
-## Social disintegration
+The factions no longer argue inside a shared organism. They deny that the organism is shared.
 
-A society becomes disintegrated when:
+```text
+PARTIAL TRUTH
+     ↓
+MORAL MONOPOLY
+     ↓
+CORRECTION READ AS ATTACK
+     ↓
+ARCHETYPAL CIVIL WAR
+```
 
-- no shared order coordinates its archetypal functions;
-- institutions are captured by narrow priority logics;
-- rival factions inhabit incompatible moral worlds;
-- each side interprets the other's corrective signal as proof of evil;
-- symbolic legitimacy collapses;
-- and political victory replaces civilizational integration.
+The resulting society may produce Security without legitimacy, Harmony enforced through silence, Recognition without truth, Comfort without production, Acquisition without inhabitable ends, or Dignity without reciprocity.
 
-The result may include:
+## Integration at scale
 
-- Security without legitimacy;
-- care without boundaries;
-- innovation without continuity;
-- Recognition without truth;
-- Dignity without reciprocity;
-- Comfort without production;
-- Acquisition without inhabitable ends;
-- or Harmony enforced through suppression.
+Integration is not bland moderation and not the equal weighting of every priority.
 
-## Integration is not bland moderation
+It means each necessary function has a legitimate channel, each can correct and limit the others, none is permanently demonized, and none receives total rule.
 
-Integration does not mean every priority receives equal weight in every situation.
+Customs, rites, laws, disciplines, and inherited institutions can store this coordination across generations. A comfortable society may preserve dignity and acquisition through apprenticeship, service, physical discipline, and rites of responsibility. A harsh society may preserve harmony and comfort through hospitality, sanctuary, festivals, charity, and limits on vengeance.
 
-It does not mean splitting every disagreement down the middle.
+Healthy custom trains what the immediate environment neglects.
 
-It means:
+The same diagnostic questions can be carried from a person into a family, institution, political coalition, or civilization:
 
-- each necessary function has a legitimate channel;
-- each function can correct and limit the others;
-- no function is permanently demonized;
-- and no function is allowed total rule.
+```text
+What is inflated?
+What is neglected?
+What has been demonized?
+What has captured the center?
+Which corrective signal is being misread as attack?
+```
 
-A society at war requires more Security than one at peace. A society recovering from cruelty may require greater Harmony and care. A society in stagnation may need Acquisition, experimentation, and disruptive Fool energy.
+The unintegrated individual becomes possessed by partial selves. The unintegrated society gives those partial selves flags, institutions, and enemies.
 
-Integration concerns coordination and proportionality, not flat equality.
-
-## Customs as stored integration
-
-Customs, rituals, laws, and inherited institutions may function as stored civilizational intelligence.
-
-They can:
-
-- train priorities neglected by the immediate environment;
-- regulate transitions between archetypal roles;
-- limit the shadow of dominant functions;
-- preserve memory of earlier crises;
-- and provide symbolic reconciliation among competing powers.
-
-A wealthy, comfortable society may use civic service, apprenticeship, physical discipline, savings norms, honor codes, and rites of responsibility to preserve Security, Acquisition, and Dignity.
-
-A harsh or militarized society may use hospitality, charity, festivals, reconciliation rites, beauty, sanctuary, and limits on vengeance to preserve Harmony, Comfort, and Recognition.
-
-Healthy custom trains what the present environment neglects.
-
-## Scale-invariant principle
-
-The same structural diagnosis can be applied at several scales:
-
-- Which functions are inflated?
-- Which are neglected?
-- Which are demonized?
-- Which have captured the coordinating center?
-- Which cannot communicate?
-- Which corrective signal is being misread as attack?
-
-This can be asked of:
-
-- a person;
-- marriage;
-- family;
-- organization;
-- political coalition;
-- or civilization.
-
-## Compact synthesis
-
-> **The unintegrated individual becomes psychologically captured and may fracture.**
-
-> **The unintegrated society externalizes its partial archetypes as hostile ideological factions.**
-
-> **A function becomes pathological when it ceases serving the whole and attempts to become the whole.**
+> **Integration is not the absence of conflict. It is the capacity to keep conflict inside a shared organism.**
