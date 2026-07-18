@@ -92,14 +92,6 @@ The person is not the mask.
 
 The person is the field capable of entering it.
 
-## The beginning of pathology
+The structure comes first. The next chamber asks which inherited symbols can carry these movements without distorting them.
 
-A strong priority is not sick because it is strong.
-
-It becomes sick when it captures the rest of the mind and forces every other faculty to speak its language.
-
-Dignity recruits Recognition until every disagreement becomes humiliation. Security recruits Harmony until peace means conformity. Acquisition recruits Comfort until appetite itself becomes the engine of further pursuit.
-
-A function becomes pathological when it ceases serving the whole and attempts to become the whole.
-
-That principle opens the model beyond personality typing. It points toward development, psychological integration, ideological conflict, and the problem of how many necessary powers can inhabit one system without going to war for total rule.
+→ [Enter the symbolic laboratory](../02-archetypes/symbolic-laboratory.md)
