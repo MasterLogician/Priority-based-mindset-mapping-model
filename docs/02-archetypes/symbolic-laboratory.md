@@ -22,7 +22,7 @@ SECURITY                 Champion / Diva   ? / ?               Steward / Hearthk
 ACQUISITION              Fool / Trickster  ? / ?               ? / ?
 ```
 
-Each cell contains the same two priorities in reversed order. Governance changes the mask.
+Each cell contains the same two priorities in reversed order. The row-governing symbol appears first; the column-governing symbol appears second.
 
 Dignity governing Recognition is not the same movement as Recognition governing Dignity. The first establishes worth and demands that the world recognize it. The second gathers social acknowledgment and embodies it as position. The priorities are identical; sovereignty changes hands.
 
@@ -30,7 +30,7 @@ This produces nine pairings and eighteen possible directions.
 
 ## Working map
 
-The names below do not all carry equal confidence. Some have already fused tightly to their coordinates. Others remain open wounds in the map.
+The names below do not all carry equal confidence. **Strong anchor** means the symbol and coordinate reinforce one another with little strain. **Strong** means the fit is clear but less inevitable. **Working** means serviceable and still under pressure. **Candidate** means promising but unproven. **Unsettled** means no present name deserves confidence.
 
 | Coordinates | Governing movement | Strongest current symbol | Competing or earlier symbol | Status |
 |---|---|---|---|---|
