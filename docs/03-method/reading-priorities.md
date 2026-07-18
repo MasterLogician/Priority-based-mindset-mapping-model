@@ -22,7 +22,7 @@ Look for the field that repeatedly organizes perception:
 
 **Value** gathers around worth, identity, legitimacy, dignity, and acknowledgment. **Stability** gathers around danger, trust, boundaries, order, and belonging. **Resources** gathers around capability, opportunity, supply, pleasure, rest, and material conditions.
 
-This identifies the territory, not yet the ruler.
+This identifies the territory, not yet the dominant weighting.
 
 ## Defense and pursuit
 
@@ -32,7 +32,7 @@ Ask what the person protects before anyone instructs them to protect it. Their s
 
 Then watch where energy goes without pressure. Some people move toward acknowledgment. Some build walls before threats fully form. Some search for openings, tools, skills, territory, or experience. Some turn what already exists into warmth, pleasure, and rest.
 
-Defense and pursuit often reveal opposite faces of the same priority. What a person hunts for in abundance may be what they most fear losing in scarcity.
+Defense and pursuit can reveal different parts of the same configuration. What a person seeks, protects, or fears losing helps locate the active region of the field.
 
 ## Deprivation
 
@@ -46,7 +46,7 @@ The strongest reaction does not automatically reveal the highest priority; wound
 
 ## Sacrifice
 
-Tradeoffs reveal governance.
+Tradeoffs reveal governing order.
 
 A person may praise Harmony until preserving it requires swallowing humiliation. They may praise Dignity until public approval is withdrawn. They may claim to value Security yet repeatedly gamble it for opportunity. They may glorify Acquisition but abandon every difficult pursuit when Comfort is disturbed.
 
@@ -54,33 +54,35 @@ A person may praise Harmony until preserving it requires swallowing humiliation.
 
 When two goods collide, ask which one becomes expendable.
 
-Dignity governing Harmony preserves relationship until relationship demands self-betrayal. Harmony governing Dignity preserves standards until those standards threaten the bond. The same priorities are present; the sacrifice reveals where sovereignty lies.
+Dignity → Harmony preserves self-respect when relationship and dignity cannot both be maintained. Harmony → Dignity preserves the bond when self-assertion threatens it. Both priorities may be strong; the sacrifice reveals their relative order in that situation.
 
 Repeated costly sacrifices outweigh slogans, aesthetics, occupations, and isolated gestures.
 
 ## From priorities to masks
 
-Once the pattern appears, infer three things:
+Once a coherent pattern appears, infer three things:
 
 1. Which domain dominates the scene?
-2. Which priority governs within it?
-3. Which opposite-polarity priority supplies the method?
+2. Which priority carries greater weight when relevant priorities conflict?
+3. Which opposite-polarity priority is also strongly active?
 
-Dignity may govern while Recognition supplies public confirmation: the region named **King**. Security may govern while Recognition supplies proof of strength: **Champion**. Acquisition may govern while Recognition turns discovery into visibility: **Fool**.
+Dignity and Recognition may both be prominent, with Dignity carrying greater weight: the region named **King**. Security and Recognition may both be prominent, with Security carrying greater weight: **Champion**. Acquisition and Recognition may both be prominent, with Acquisition carrying greater weight: **Fool**.
 
-Do not begin with the archetype and hunt for evidence. Begin with the movement. The name arrives last.
+Do not begin with the archetype and hunt for evidence. Begin with the weighted pattern. The name arrives last.
 
-A serious reading keeps at least one rival explanation alive. Apparent King energy may be a Champion responding to threat, or a brief Dignity surge after humiliation. The coordinates must survive comparison before the costume is trusted.
+A serious reading keeps at least one rival explanation alive. Apparent King energy may be a Champion responding to threat, a Recognition-heavy performance, or a temporary Dignity surge after humiliation. The coordinate must survive comparison before the costume is trusted.
 
-## State and attractor
+## State, context, and attractor
 
-Hunger raises Comfort. Opportunity raises Acquisition. Public performance raises Recognition. Threat raises Security. These are states.
+Hunger raises Comfort. Opportunity raises Acquisition. Public performance raises Recognition. Threat raises Security. These are contextual shifts in weight.
 
-An attractor is a configuration to which the person repeatedly returns after the immediate pressure passes. It appears across contexts and recruits supporting priorities into a familiar pattern. Resistance to correction marks capture, not mere recurrence.
+An attractor is a coherent region to which the person repeatedly returns under similar conditions. The same person may show one attractor in creative work, another with money, another in friendship, and another under threat.
 
-Ask whether the pattern survives time, changes of setting, and contradictory evidence. One scene reveals activation. Repetition reveals structure.
+This is not inconsistency. These masks can be distinct, stable regions of identity. Averaging them across unrelated situations may produce an incoherent signal that resembles none of the person’s actual modes.
 
-A person may still carry several masks: Fool in creation, Steward with money, Gentleman in friendship, Paladin when protecting family. The aim is to map movement, not imprison the person inside a type.
+Ask whether the pattern recurs under comparable conditions, how easily it shifts when the situation changes, and whether learning in one region carries into another. Resistance to correction and compulsory repetition across contexts mark capture, not mere recurrence.
+
+The aim is to map movement and landmarks, not imprison the person inside a type.
 
 ## The body as supporting evidence
 
@@ -94,16 +96,16 @@ These are clues, never verdicts. Training, pain, fatigue, culture, fear, and del
 
 A man describes himself as easygoing and loyal to the team. In ordinary meetings he smooths disagreement and accepts inconvenience. Then a supervisor publicly credits someone else for his work.
 
-He interrupts the meeting, corrects the record, and risks damaging the relationship. Harmony mattered, but it became expendable when Dignity was violated. He does not merely demand private reassurance; he wants the public field corrected. Recognition serves the restoration of rightful standing.
+He interrupts the meeting, corrects the record, and risks damaging the relationship. The scene activates Dignity, Recognition, and Harmony. Harmony becomes expendable; Dignity and Recognition remain strongly charged.
 
-The first reading is **Dignity governing Recognition**.
+This places the event in the Dignity–Recognition region, but one incident does not settle the arrow. To distinguish **Dignity → Recognition** from **Recognition → Dignity**, observe what happens when inward standards and public acknowledgment conflict directly. Does he preserve what he considers rightful even when nobody validates it, or does his position bend when the audience withdraws recognition?
 
-But the reading remains open. If the confrontation appears only when his position or livelihood is threatened, Security may govern instead. If he mainly seeks applause and retreats once the audience turns against him, Recognition may be ruling Dignity rather than serving it.
+Security may also be active if the confrontation is mainly about livelihood or position. The reading remains a hypothesis until the pattern recurs.
 
 The method does not deliver omniscience. It disciplines interpretation.
 
 > **Notice what catches the eye. Watch what rises to defend it. Follow desire. Find the feared absence. Then wait for the sacrifice.**
 
-Reading reveals what governs. The final chamber asks whether that governing function can yield—or whether it has taken the throne.
+Reading reveals the shape active in a situation. The final chamber asks what happens when a recurring mask becomes rigid—and whether awareness can create more room around it.
 
 → [Enter capture and integration](../04-dynamics/capture-and-integration.md)
