@@ -1,247 +1,105 @@
-# Analyzing a Person with PBMM
+# Reading Priorities
 
-PBMM analysis is an inference problem.
+People tell you what they believe. Pressure tells you what governs.
 
-The observer sees behavior, language, posture, choices, and tradeoffs. The underlying priority configuration remains latent.
+A priority configuration cannot be seen directly. It leaves traces in attention, reflex, appetite, fear, and sacrifice. PBMM reads those traces.
 
-The correct method is therefore probabilistic rather than categorical.
+```text
+NOTICE  →  DEFEND  →  PURSUE  →  FEAR LOSING  →  SACRIFICE
+```
 
-## The analysis tree
+The sequence moves from weak evidence to strong. What someone says matters. What repeatedly captures their attention matters more. What they protect at a cost matters more still.
 
-### 1. Identify the dominant domain
+## Salience
 
-Ask which broad field repeatedly organizes the person's attention.
+Begin with what arrives first.
 
-#### Value
+One person enters a room and notices rank, insult, and whether they are being taken seriously. Another notices tension between people. Another notices the unlocked window, the missing tool, the available seat, the unfinished food, or the chance no one else has seen.
 
-Does the person repeatedly orient toward:
+Attention is already weighted. The mind does not receive the world evenly; it throws light toward what its priorities have marked as consequential.
 
-- worth;
-- meaning;
-- legitimacy;
-- identity;
-- status;
-- insult;
-- acknowledgment;
-- or moral standing?
+Look for the field that repeatedly organizes perception:
 
-#### Stability
+**Value** gathers around worth, identity, legitimacy, dignity, and acknowledgment. **Stability** gathers around danger, trust, boundaries, order, and belonging. **Resources** gathers around capability, opportunity, supply, pleasure, rest, and material conditions.
 
-Do they repeatedly orient toward:
+This identifies the territory, not yet the ruler.
 
-- danger;
-- disorder;
-- trust;
-- boundaries;
-- predictability;
-- conflict;
-- belonging;
-- or coordination?
+## Defense and pursuit
 
-#### Resources
+Defense reveals what feels necessary. Pursuit reveals what feels promising.
 
-Do they repeatedly orient toward:
+Ask what the person protects before anyone instructs them to protect it. Their standing? The peace of the group? Their savings? Their freedom to move? A familiar refuge? The integrity of a promise?
 
-- opportunity;
-- tools;
-- money;
-- capability;
-- knowledge;
-- territory;
-- pleasure;
-- rest;
-- or material conditions?
+Then watch where energy goes without pressure. Some people move toward acknowledgment. Some build walls before threats fully form. Some search for openings, tools, skills, territory, or experience. Some turn what already exists into warmth, pleasure, and rest.
 
-This first step narrows the field but should remain provisional.
+Defense and pursuit often reveal opposite faces of the same priority. What a person hunts for in abundance may be what they most fear losing in scarcity.
 
-### 2. Identify the governing direction
+## Deprivation
 
-Within the dominant domain, ask how the person tries to solve the problem.
+The hidden hierarchy becomes clearer when something is withheld.
 
-- Value through **Dignity** or **Recognition**?
-- Stability through **Security** or **Harmony**?
-- Resources through **Acquisition** or **Comfort**?
+Which absence changes the person disproportionately?
 
-Do not infer the direction from stated ideals alone. Observe repeated action.
+Lack of Recognition may feel like erasure. Loss of Dignity may feel like contamination. Insecurity may make thought collapse into vigilance. Broken Harmony may feel like exile. Blocked Acquisition may feel like imprisonment. Loss of Comfort may make life feel barren and uninhabitable.
 
-### 3. Identify the strongest supporting priority
+The strongest reaction does not automatically reveal the highest priority; wounds can imitate values. But deprivation shows where the system is most easily captured.
 
-Look for the opposite-polarity priority that supplies the characteristic strategy.
+## Sacrifice
 
-Examples:
+Tradeoffs reveal governance.
 
-- Dignity supported by Harmony
-- Security supported by Recognition
-- Acquisition supported by Comfort
+A person may praise Harmony until preserving it requires swallowing humiliation. They may praise Dignity until public approval is withdrawn. They may claim to value Security yet repeatedly gamble it for opportunity. They may glorify Acquisition but abandon every difficult pursuit when Comfort is disturbed.
 
-This generates an archetypal hypothesis.
+> **A person tells you what they admire. Conflict reveals what rules.**
 
-### 4. Compare neighboring hypotheses
+When two goods collide, ask which one becomes expendable.
 
-Do not stop at the first plausible label.
+Dignity governing Harmony preserves relationship until relationship demands self-betrayal. Harmony governing Dignity preserves standards until those standards threaten the bond. The same priorities are present; the sacrifice reveals where sovereignty lies.
 
-A person who appears King-like may instead be:
+Repeated costly sacrifices outweigh slogans, aesthetics, occupations, and isolated gestures.
 
-- a Champion using security to obtain honor;
-- a Patriarch organizing comfort beneath dignity;
-- or a temporary Dignity-heavy state caused by humiliation.
+## From priorities to masks
 
-Maintain at least one serious alternative.
+Once the pattern appears, infer three things:
 
-## Five high-value observations
+1. Which domain dominates the scene?
+2. Which priority governs within it?
+3. Which opposite-polarity priority supplies the method?
 
-### Salience
+Dignity may govern while Recognition supplies public confirmation: the region named **King**. Security may govern while Recognition supplies proof of strength: **Champion**. Acquisition may govern while Recognition turns discovery into visibility: **Fool**.
 
-What does the person notice before others do?
+Do not begin with the archetype and hunt for evidence. Begin with the movement. The name arrives last.
 
-Attention is evidence of weighting.
+A serious reading keeps at least one rival explanation alive. Apparent King energy may be a Champion responding to threat, or a brief Dignity surge after humiliation. The coordinates must survive comparison before the costume is trusted.
 
-### Defense
+## State and attractor
 
-What do they protect instinctively, even when no one asks them to?
+Hunger raises Comfort. Opportunity raises Acquisition. Public performance raises Recognition. Threat raises Security. These are states.
 
-Defense reveals perceived necessity.
+An attractor is where the person repeatedly returns after the immediate pressure passes. It appears across contexts, recruits supporting priorities, and resists correction.
 
-### Pursuit
+Ask whether the pattern survives time, changes of setting, and contradictory evidence. One scene reveals activation. Repetition reveals structure.
 
-What do they move toward without external pressure?
+A person may still carry several masks: Fool in creation, Steward with money, Gentleman in friendship, Paladin when protecting family. The aim is to map movement, not imprison the person inside a type.
 
-Spontaneous pursuit reveals attraction.
+## The body as supporting evidence
 
-### Feared deprivation
+Priorities prepare the body before they become arguments.
 
-Which loss causes disproportionate distress?
+Dignity may lengthen the spine and slow unnecessary movement. Recognition orients toward the witness. Security scans and guards distance. Harmony mirrors and adjusts to the group rhythm. Acquisition leans toward the opening. Comfort settles into contact, warmth, and familiar space.
 
-Fear may reveal the priority whose absence feels existential.
+These are clues, never verdicts. Training, pain, fatigue, culture, fear, and deliberate performance can produce the same posture for different reasons.
 
-### Sacrifice
+## A worked reading
 
-What do they give up when two priorities conflict?
+A man describes himself as easygoing and loyal to the team. In ordinary meetings he smooths disagreement and accepts inconvenience. Then a supervisor publicly credits someone else for his work.
 
-Tradeoffs are usually the strongest evidence of governance.
+He interrupts the meeting, corrects the record, and risks damaging the relationship. Harmony mattered, but it became expendable when Dignity was violated. He does not merely demand private reassurance; he wants the public field corrected. Recognition serves the restoration of rightful standing.
 
-A person may claim to value Harmony, but repeatedly sacrifice it to preserve Dignity. Another may speak constantly about Dignity but surrender it whenever Recognition is threatened.
+The first reading is **Dignity governing Recognition**.
 
-## Bayesian updating
+But the reading remains open. If the confrontation appears only when his position or livelihood is threatened, Security may govern instead. If he mainly seeks applause and retreats once the audience turns against him, Recognition may be ruling Dignity rather than serving it.
 
-Begin with a distribution of possibilities rather than a verdict.
+The method does not deliver omniscience. It disciplines interpretation.
 
-For example:
-
-- King: 30%
-- Champion: 25%
-- Gentleman: 20%
-- Other configurations: 25%
-
-Then update as evidence accumulates.
-
-Evidence that the person repeatedly sacrifices Harmony to preserve standing raises the probability of Dignity governance.
-
-Evidence that they seek visible victory under threat raises the probability of Security–Recognition.
-
-Evidence that security concerns appear primarily in service of sovereignty and rightful standing may favor King over Champion.
-
-A responsible conclusion sounds like:
-
-> Given the available evidence, Dignity governing Recognition is the strongest current interpretation. Security governing Recognition remains plausible, especially under threat.
-
-## Evidence hierarchy
-
-Not all observations carry equal weight.
-
-### Strong evidence
-
-- repeated costly tradeoffs;
-- behavior across multiple contexts;
-- decisions under pressure;
-- stable patterns over time;
-- self-report confirmed by behavior;
-- and reactions to loss or humiliation.
-
-### Moderate evidence
-
-- recurring language;
-- role choices;
-- characteristic conflicts;
-- attention patterns;
-- and repeated interpersonal strategies.
-
-### Weak evidence
-
-- posture in a single moment;
-- clothing;
-- one public performance;
-- occupation alone;
-- aesthetic preference;
-- demographic stereotypes;
-- and isolated statements.
-
-Physical clues can support an interpretation but should not determine it.
-
-## Embodied clues
-
-Possible embodied expressions include:
-
-- **Dignity:** upright spine, reduced unnecessary movement, controlled tempo, sustained gaze.
-- **Recognition:** orientation toward observers, monitoring reactions, deliberate presentation.
-- **Security:** scanning, guarded distance, muscular readiness, control of exits and boundaries.
-- **Harmony:** mirroring, softer transitions, relational gaze, adjustment to group rhythm.
-- **Acquisition:** forward movement, reaching, exploratory attention, rapid orientation toward openings.
-- **Comfort:** settling weight, sensory attention, protection of familiar space, restoration-seeking.
-
-These are hypotheses, not universal tells. Culture, illness, training, trauma, fatigue, occupation, and deliberate performance can imitate them.
-
-## State versus attractor
-
-Before inferring a durable pattern, ask:
-
-- Is the person hungry, exhausted, intoxicated, frightened, humiliated, or performing a role?
-- Does the configuration recur when the immediate pressure disappears?
-- Does it appear in several domains of life?
-- Does the person return to it after trying another strategy?
-
-Temporary activation is a state. Repeated return suggests an attractor.
-
-## Primary and secondary masks
-
-A person may have one dominant attractor and several secondary masks.
-
-Example:
-
-- Fool in creative work
-- Steward with money
-- Gentleman in friendship
-- Paladin when protecting family
-
-The objective is not to force all behavior into one identity. It is to map the repertoire and identify which configurations govern which parts of life.
-
-## Seek disconfirmation
-
-Every analysis should include:
-
-> What evidence would make this interpretation less likely?
-
-Possible disconfirming evidence might include:
-
-- the person repeatedly accepts humiliation to preserve belonging;
-- they surrender visibility to maintain safety;
-- they abandon acquisition whenever comfort is threatened;
-- or the apparent pattern disappears outside one role.
-
-Without active disconfirmation, PBMM can become a confirmation-bias machine.
-
-## Ethical boundaries
-
-PBMM should not be used to:
-
-- clinically diagnose strangers;
-- declare knowledge of private motives from public behavior;
-- manipulate people through hidden targeting;
-- convert disagreement into a moralized type label;
-- or treat archetypes as immutable identities.
-
-The model is most useful as a disciplined hypothesis generator, a language for tradeoffs, and a tool for self-observation.
-
-## Compact protocol
-
-> **Begin uncertain. Observe salience, defense, pursuit, deprivation, and sacrifice. Infer domain, direction, and support. Compare alternatives. Seek disconfirmation. Update rather than declare.**
+> **Notice what catches the eye. Watch what rises to defend it. Follow desire. Find the feared absence. Then wait for the sacrifice.**
