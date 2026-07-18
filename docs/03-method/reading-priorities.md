@@ -8,7 +8,7 @@ A priority configuration cannot be seen directly. It leaves traces in attention,
 NOTICE  →  DEFEND  →  PURSUE  →  FEAR LOSING  →  SACRIFICE
 ```
 
-The sequence moves from weak evidence to strong. What someone says matters. What repeatedly captures their attention matters more. What they protect at a cost matters more still.
+The sequence moves deeper into the hidden order, but it is not a rigid evidence ladder. A recurring pattern across contexts outweighs any single dramatic clue.
 
 ## Salience
 
@@ -76,7 +76,7 @@ A serious reading keeps at least one rival explanation alive. Apparent King ener
 
 Hunger raises Comfort. Opportunity raises Acquisition. Public performance raises Recognition. Threat raises Security. These are states.
 
-An attractor is where the person repeatedly returns after the immediate pressure passes. It appears across contexts, recruits supporting priorities, and resists correction.
+An attractor is a configuration to which the person repeatedly returns after the immediate pressure passes. It appears across contexts and recruits supporting priorities into a familiar pattern. Resistance to correction marks capture, not mere recurrence.
 
 Ask whether the pattern survives time, changes of setting, and contradictory evidence. One scene reveals activation. Repetition reveals structure.
 
