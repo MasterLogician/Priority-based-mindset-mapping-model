@@ -1,145 +1,105 @@
 # The Three Domains and Six Priorities
 
-PBMM begins with three broad problems faced by every organized human life:
+A person does not merely possess priorities. They are organized by them.
 
-1. **What is valuable?**
-2. **What keeps the system coherent?**
-3. **What supplies and sustains life?**
+What they notice first, what they defend without being asked, what they pursue when no one is watching, and what they sacrifice under pressure forms a pattern. PBMM calls that pattern a **priority geometry**.
 
-These become the domains of **Value, Stability, and Resources**.
+The model begins with three problems no organized life escapes:
 
-## Value — Spirit — Meaning
+| Domain | Human layer | Core problem | Two directions |
+|---|---|---|---|
+| **Value** | Spirit | What is worthy? | Dignity / Recognition |
+| **Stability** | Nervous system | What keeps the system from breaking apart? | Security / Harmony |
+| **Resources** | Body | What supplies and sustains life? | Acquisition / Comfort |
 
-Value concerns worth, identity, purpose, legitimacy, and orientation.
+These are not sealed compartments. They are three fields through which the same event can be interpreted.
 
-Its two directions are:
+A public insult can threaten Value because it attacks standing. It can threaten Stability because it disturbs the social field. It can threaten Resources if reputation controls access to work, protection, or opportunity. The event is one thing; the mind reveals itself by the layer it treats as primary.
 
-### Dignity
+## Value: Dignity and Recognition
 
-Dignity establishes worth from within.
+Value concerns worth, meaning, legitimacy, identity, and rightful place.
 
-It appears as self-respect, integrity, sovereignty, honor, standards, rightful standing, and resistance to humiliation or degradation.
+**Dignity** establishes worth from within. It is the refusal to let value collapse when approval is withdrawn. It appears as integrity, self-respect, standards, sovereignty, and resistance to humiliation.
 
-Its central question is:
+**Recognition** reflects worth through other people. It appears as visibility, acknowledgment, belonging, reputation, representation, and the desire to be accurately seen.
 
-> What is worthy regardless of whether it is presently acknowledged?
+Neither direction is complete alone. Dignity without Recognition can become a sealed kingdom: proud, isolated, and unable to receive correction. Recognition without Dignity becomes a hall of mirrors in which identity changes with the audience.
 
-### Recognition
+Their healthy movement is reciprocal. Dignity gives Recognition something real to reflect. Recognition prevents Dignity from becoming private mythology.
 
-Recognition realizes worth through reflection by others.
+## Stability: Security and Harmony
 
-It appears as visibility, acknowledgment, reputation, appreciation, belonging, representation, and social confirmation.
+Stability concerns the preservation of coherence under danger, uncertainty, conflict, and change.
 
-Its central question is:
+**Security** stabilizes through boundaries. It prepares, protects, deters, watches, separates, and preserves continuity.
 
-> Is value being accurately seen, named, and reflected?
+**Harmony** stabilizes through relationship. It coordinates, reconciles, builds trust, reduces friction, and keeps the parts of a system moving together.
 
-### Healthy cycle
+Security without Harmony builds walls until nothing living can pass through them. Harmony without Security keeps the peace by surrendering the conditions that make peace possible.
 
-Dignity allows a person to receive recognition without becoming dependent upon it. Recognition corrects, develops, and socially locates dignity.
+Their healthy movement is also reciprocal. Security creates a protected field in which trust can grow. Harmony creates the cooperation without which protection becomes permanent siege.
 
-### Characteristic distortions
+## Resources: Acquisition and Comfort
 
-- Dignity without recognition can harden into isolation, pride, or refusal of correction.
-- Recognition without dignity can become approval dependence, status anxiety, or identity by audience.
+Resources concern the material, energetic, practical, and informational conditions of life.
 
-## Stability — Nervous System — Regulation
+**Acquisition** moves toward what is absent. It hunts, learns, builds, earns, explores, produces, accumulates, and expands capability.
 
-Stability concerns the preservation of organization under danger, uncertainty, conflict, and change.
+**Comfort** turns possession into lived benefit. It nourishes, repairs, shelters, restores, beautifies, settles, and allows the organism to inhabit what it has gained.
 
-Its two directions are:
+Acquisition without Comfort becomes endless movement toward an arrival that never comes. Comfort without Acquisition consumes reserves and calls depletion peace.
 
-### Security
+Their healthy movement forms a cycle. Acquisition brings the world into the system. Comfort metabolizes it into life.
 
-Security establishes stability through boundaries and protection.
+## Establishing and realizing
 
-It appears as vigilance, preparedness, deterrence, redundancy, control of threats, law, defense, and continuity.
+The same pattern repeats across all three domains.
 
-Its central question is:
+Dignity establishes worth; Recognition reflects it.
 
-> What must be protected so the system does not break apart?
+Security establishes boundaries; Harmony coordinates what lives within them.
 
-### Harmony
+Acquisition establishes supply; Comfort realizes it as experience.
 
-Harmony realizes stability through relationship and coordination.
+PBMM uses **masculine** and **feminine** as symbolic names for these recurring directions. The masculine movement establishes, separates, defends, extends, or obtains. The feminine movement receives, relates, integrates, cultivates, reflects, or converts potential into lived form.
 
-It appears as cooperation, trust, co-regulation, reconciliation, shared norms, mutual adjustment, and reduced relational friction.
+Every person contains both movements. The distinction concerns direction, not a rigid division between men and women.
 
-Its central question is:
+## Weight, order, and tradeoff
 
-> What must remain connected and coordinated so the system can function?
+The six priorities matter because they are not equally weighted, and because weight alone is not enough.
 
-### Healthy cycle
+Two people can both value Dignity and Harmony. The difference appears when the priorities collide. One preserves the relationship until it demands self-betrayal; the other preserves self-respect even when the relationship breaks. Their values may be similar. Their **governing order** is not.
 
-Security provides boundaries within which trust can form. Harmony reduces internal friction and supplies the cooperation that security alone cannot create.
+This is why tradeoffs reveal more than declarations.
 
-### Characteristic distortions
+A person tells you what they admire. Pressure reveals what rules.
 
-- Security without harmony can become suspicion, isolation, authoritarian control, or permanent emergency.
-- Harmony without security can become conflict avoidance, porous boundaries, appeasement, or vulnerability to exploitation.
+The full configuration can be imagined as six weighted directions:
 
-## Resources — Body — Metabolism
+> **Dignity · Recognition · Security · Harmony · Acquisition · Comfort**
 
-Resources concern the material, informational, energetic, and practical conditions of life.
+The dominant pair gives the configuration its recognizable shape. The governing priority supplies the end; the supporting priority supplies the method.
 
-Its two directions are:
+Dignity governing Recognition seeks acknowledgment in service of rightful worth. Recognition governing Dignity uses embodied worth to secure acknowledged position. The same pair, reversed, produces a different human movement.
 
-### Acquisition
+Those recurring movements are what PBMM names with archetypes.
 
-Acquisition establishes resources by moving toward what is absent.
+An archetype is not a permanent identity. It is a mask: a compressed program of attention, posture, judgment, and action. The King, Fool, Trickster, Steward, and other figures are names for regions in the larger priority field.
 
-It appears as pursuit, exploration, production, learning, accumulation, conquest, toolmaking, skill development, and opportunity seeking.
+The person is not the mask.
 
-Its central question is:
+The person is the field capable of entering it.
 
-> What must be found, produced, learned, or brought into the system?
+## The beginning of pathology
 
-### Comfort
+A strong priority is not sick because it is strong.
 
-Comfort realizes resources as lived wellbeing.
+It becomes sick when it captures the rest of the mind and forces every other faculty to speak its language.
 
-It appears as nourishment, rest, pleasure, repair, shelter, beauty, familiarity, convenience, and restoration.
+Dignity recruits Recognition until every disagreement becomes humiliation. Security recruits Harmony until peace means conformity. Acquisition recruits Comfort until appetite itself becomes the engine of further pursuit.
 
-Its central question is:
+A function becomes pathological when it ceases serving the whole and attempts to become the whole.
 
-> How can what has been obtained become a sustainable and inhabitable life?
-
-### Healthy cycle
-
-Acquisition supplies the system. Comfort metabolizes what has been acquired into restoration and lived benefit.
-
-### Characteristic distortions
-
-- Acquisition without comfort becomes endless pursuit, extraction, or achievement without arrival.
-- Comfort without acquisition consumes reserves without replenishing them and can become stagnation or dependency.
-
-## The repeated pattern
-
-The six priorities are not unrelated categories. Each domain contains an establishing direction and a realizing direction.
-
-| Domain | Establishing movement | Realizing movement |
-|---|---|---|
-| **Value** | Dignity establishes worth | Recognition reflects worth |
-| **Stability** | Security protects coherence | Harmony coordinates coherence |
-| **Resources** | Acquisition supplies life | Comfort turns supply into lived wellbeing |
-
-This repeated structure is why PBMM uses the provisional masculine and feminine language.
-
-The masculine direction establishes, separates, defends, extends, or obtains.
-
-The feminine direction receives, relates, integrates, cultivates, reflects, contains, or turns potential into experience.
-
-## Derivative motives
-
-Many familiar motives can be understood as combinations rather than additional foundations.
-
-- **Competence:** Acquisition + Dignity
-- **Belonging:** Harmony + Recognition
-- **Hospitality:** Comfort + Harmony
-- **Status:** Dignity + Recognition
-- **Preparedness:** Security + Acquisition
-- **Craftsmanship:** Acquisition + Dignity + Recognition
-- **Care:** Harmony + Comfort, often supported by Security
-- **Ambition:** intensity of pursuit rather than a separate domain
-
-The purpose of compression is not to deny the richness of human motives. It is to organize that richness without creating an endless list of disconnected needs.
+That principle opens the model beyond personality typing. It points toward development, psychological integration, ideological conflict, and the problem of how many necessary powers can inhabit one system without going to war for total rule.
