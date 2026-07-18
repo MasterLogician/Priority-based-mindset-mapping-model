@@ -68,9 +68,9 @@ PBMM uses **masculine** and **feminine** as symbolic names for these recurring d
 
 Every person contains both movements. The distinction concerns direction, not a rigid division between men and women.
 
-## Weight, order, and tradeoff
+## Weight, order, and context
 
-The six priorities matter because they are not equally weighted, and because weight alone is not enough.
+The six priorities are continuous dimensions. Both poles within a domain can be strong, both can be weak, or one can carry more weight than the other.
 
 Two people can both value Dignity and Harmony. The difference appears when the priorities collide. One preserves the relationship until it demands self-betrayal; the other preserves self-respect even when the relationship breaks. Their values may be similar. Their **governing order** is not.
 
@@ -82,18 +82,18 @@ The full configuration can be imagined as six weighted directions:
 
 > **Dignity · Recognition · Security · Harmony · Acquisition · Comfort**
 
-Archetypal pairs do not join arbitrary priorities. Each crosses one establishing priority with one realizing priority. Within that pair, the governing priority supplies the end; the supporting priority supplies the method.
+Context changes those weights. Creative work, money, friendship, family, humiliation, danger, exhaustion, and public attention may each pull the same person toward a different coherent region of the field.
 
-Dignity governing Recognition seeks acknowledgment in service of rightful worth. Recognition governing Dignity uses embodied worth to secure acknowledged position. The same pair, reversed, produces a different human movement.
+The current archetype map compresses this larger field by crossing one establishing priority with one realizing priority. This produces a usable set of landmarks; it does not claim that a person contains only two active priorities or that every situation can be exhausted by one mask.
 
-Those recurring movements are what PBMM names with archetypes.
+Within a coordinate, the arrow marks relative dominance. **Dignity → Recognition** names a region in which both are prominent but Dignity tends to prevail when they conflict. **Recognition → Dignity** names the reverse weighting. The arrow does not imply that one priority causes, serves, or supplies a method for the other.
 
-An archetype is not a permanent identity. It is a mask: a compressed program of attention, posture, judgment, and action. The King, Fool, Trickster, Steward, and other figures are names for regions in the larger priority field.
+Averaging every context into one score can turn several coherent regions into an incoherent blur. PBMM becomes more useful when it asks which masks recur in which parts of life and under which conditions.
 
-The person is not the mask.
+An archetype is not a permanent identity. It is a mask: a compressed landmark in the priority field, carrying a recognizable pattern of attention, posture, judgment, and action.
 
-The person is the field capable of entering it.
+The priority field is not the whole person. It is a map of the weights active in a given context.
 
-The structure comes first. The next chamber asks which inherited symbols can carry these movements without distorting them.
+The structure comes first. The next chamber asks which inherited symbols can carry these regions without distorting them.
 
 → [Enter the symbolic laboratory](../02-archetypes/symbolic-laboratory.md)
