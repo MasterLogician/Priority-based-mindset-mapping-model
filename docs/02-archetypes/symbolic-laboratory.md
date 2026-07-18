@@ -100,3 +100,7 @@ Esoteric depth should make the symbol richer on return, not incomprehensible on 
 > **The symbol should be a door, not a password.**
 
 The table remains open until each name can survive structure, memory, shadow, and embodiment.
+
+Once the symbol has survived, the problem shifts from naming to perception: how do we recognize the movement before the costume?
+
+→ [Read priorities](../03-method/reading-priorities.md)
