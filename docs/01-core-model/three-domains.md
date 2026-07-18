@@ -2,7 +2,7 @@
 
 A person does not merely possess priorities. They are organized by them.
 
-What they notice first, what they defend without being asked, what they pursue when no one is watching, and what they sacrifice under pressure forms a pattern. PBMM calls that pattern a **priority geometry**.
+Together, what they notice first, what they defend without being asked, what they pursue when no one is watching, and what they sacrifice under pressure form a pattern. PBMM calls that pattern a **priority geometry**.
 
 The model begins with three problems no organized life escapes:
 
@@ -12,7 +12,9 @@ The model begins with three problems no organized life escapes:
 | **Stability** | Nervous system | What keeps the system from breaking apart? | Security / Harmony |
 | **Resources** | Body | What supplies and sustains life? | Acquisition / Comfort |
 
-These are not sealed compartments. They are three fields through which the same event can be interpreted.
+Spirit, nervous system, and body are symbolic anchors, not exclusive locations of the priorities.
+
+The domains are not sealed compartments. They are three fields through which the same event can be interpreted.
 
 A public insult can threaten Value because it attacks standing. It can threaten Stability because it disturbs the social field. It can threaten Resources if reputation controls access to work, protection, or opportunity. The event is one thing; the mind reveals itself by the layer it treats as primary.
 
@@ -24,7 +26,7 @@ Value concerns worth, meaning, legitimacy, identity, and rightful place.
 
 **Recognition** reflects worth through other people. It appears as visibility, acknowledgment, belonging, reputation, representation, and the desire to be accurately seen.
 
-Neither direction is complete alone. Dignity without Recognition can become a sealed kingdom: proud, isolated, and unable to receive correction. Recognition without Dignity becomes a hall of mirrors in which identity changes with the audience.
+Each direction becomes distorted when it tries to stand alone. Dignity without Recognition can become a sealed kingdom: proud, isolated, and unable to receive correction. Recognition without Dignity becomes a hall of mirrors in which identity changes with the audience.
 
 Their healthy movement is reciprocal. Dignity gives Recognition something real to reflect. Recognition prevents Dignity from becoming private mythology.
 
@@ -38,7 +40,7 @@ Stability concerns the preservation of coherence under danger, uncertainty, conf
 
 Security without Harmony builds walls until nothing living can pass through them. Harmony without Security keeps the peace by surrendering the conditions that make peace possible.
 
-Their healthy movement is also reciprocal. Security creates a protected field in which trust can grow. Harmony creates the cooperation without which protection becomes permanent siege.
+Their healthy movement is reciprocal. Security creates a protected field in which trust can grow. Harmony creates the cooperation without which protection becomes permanent siege.
 
 ## Resources: Acquisition and Comfort
 
@@ -80,7 +82,7 @@ The full configuration can be imagined as six weighted directions:
 
 > **Dignity · Recognition · Security · Harmony · Acquisition · Comfort**
 
-The dominant pair gives the configuration its recognizable shape. The governing priority supplies the end; the supporting priority supplies the method.
+Archetypal pairs do not join arbitrary priorities. Each crosses one establishing priority with one realizing priority. Within that pair, the governing priority supplies the end; the supporting priority supplies the method.
 
 Dignity governing Recognition seeks acknowledgment in service of rightful worth. Recognition governing Dignity uses embodied worth to secure acknowledged position. The same pair, reversed, produces a different human movement.
 
