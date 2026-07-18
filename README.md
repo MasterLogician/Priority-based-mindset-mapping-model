@@ -9,6 +9,8 @@
        Recognition          Harmony             Comfort
 ```
 
+The arrows mark paired directions within each domain, not zero-sum sliders. Both sides can be strong; the question is how much weight each carries and which one governs when they conflict.
+
 > **A mindset is a geometry of priorities with direction and magnitude.**
 
 A person does not merely possess priorities. They are organized by them.
@@ -17,7 +19,7 @@ Two people may admire the same virtues, repeat the same beliefs, and still move 
 
 Pressure reveals the hidden order.
 
-Priority-Based Mindset Mapping begins with three domains of human life—**Value, Stability, and Resources**—each divided into two directions. Their relative weight, governing order, and interaction form a changing landscape of attention and action.
+Priority-Based Mindset Mapping begins with three domains of human life—**Value, Stability, and Resources**—each divided into two directions. Their relative intensity, governing order, and interaction form a changing landscape of attention and action.
 
 Recurring shapes in that landscape become archetypal masks: King, Fool, Steward, Trickster, and others. The names are not permanent personality types. They are compressed human programs—ways of noticing, defending, pursuing, relating, and moving through a scene.
 
