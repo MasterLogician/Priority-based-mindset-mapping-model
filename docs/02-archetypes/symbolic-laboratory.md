@@ -22,42 +22,42 @@ SECURITY                 Champion / Diva   ? / ?               Steward / Hearthk
 ACQUISITION              Fool / Trickster  ? / ?               ? / ?
 ```
 
-Each cell contains the same two priorities in reversed order. The row-governing symbol appears first; the column-governing symbol appears second.
+Each cell contains the same two priorities in reversed weighting. The row-heavier symbol appears first; the column-heavier symbol appears second.
 
-Dignity governing Recognition is not the same movement as Recognition governing Dignity. The first establishes worth and demands that the world recognize it. The second gathers social acknowledgment and embodies it as position. The priorities are identical; sovereignty changes hands.
+**Dignity → Recognition** and **Recognition → Dignity** occupy the same region of the map, but the arrow marks which priority tends to carry greater weight when the two conflict. It does not describe a sequence of actions, a cause, or one priority being used as the method of another.
 
-This produces nine pairings and eighteen possible directions.
+This produces nine pairings and eighteen possible directions. The matrix is a compression device: a set of landmarks for reading coherent regions in a much richer field.
 
 ## Working map
 
 The names below do not all carry equal confidence. **Strong anchor** means the symbol and coordinate reinforce one another with little strain. **Strong** means the fit is clear but less inevitable. **Working** means serviceable and still under pressure. **Candidate** means promising but unproven. **Unsettled** means no present name deserves confidence.
 
-| Coordinates | Governing movement | Strongest current symbol | Competing or earlier symbol | Status |
-|---|---|---|---|---|
-| Dignity → Recognition | Establish worth and have it acknowledged | **King** | — | Strong anchor |
-| Recognition → Dignity | Embody acknowledged position as worth | **Queen** | — | Strong anchor |
-| Dignity → Harmony | Preserve relationship without surrendering self-respect | **Gentleman** | Knight | Working |
-| Harmony → Dignity | Preserve grace and relation while maintaining standards | **Lady** | Courtly Lady | Working |
-| Dignity → Comfort | Establish an ordered and provisioned domain | **Patriarch** | Householder | Working |
-| Comfort → Dignity | Govern the domain through cultivation and embodied order | **Matriarch** | — | Working |
-| Security → Recognition | Prove protective strength and earn honor | **Champion** | Warrior | Strong |
-| Recognition → Security | Secure position through visible distinction | **Diva** | Celebrity, Star | Unsettled |
-| Security → Harmony | Protect cohesion through boundary, oath, and service | **Paladin** | Guardian | Candidate |
-| Harmony → Security | Create safety through belonging, containment, and care | **Great Mother** | Mother | Candidate |
-| Security → Comfort | Preserve the systems and reserves that sustain life | **Steward** | Keeper | Strong |
-| Comfort → Security | Protect the familiar center of restoration | **Hearthkeeper** | Hearth Mother | Working |
-| Acquisition → Recognition | Enter the unknown and become visible through discovery | **Fool** | Explorer | Strong anchor |
-| Recognition → Acquisition | Use attention, ambiguity, and disruption to create openings | **Trickster** | Jester | Strong anchor |
-| Acquisition → Harmony | Coordinate people and resources into capability and form | **Architect** | Builder | Candidate |
-| Harmony → Acquisition | Create possibility through connection and combination | **Alchemist** | Weaver | Unsettled |
-| Acquisition → Comfort | Cross distance and difficulty to obtain what is desired | **Charioteer** | Hunter | Unsettled |
-| Comfort → Acquisition | Draw material possibility into abundance and lived fertility | **Empress** | Gatherer | Unsettled |
+| Coordinates | Strongest current symbol | Competing or earlier symbol | Status |
+|---|---|---|---|
+| Dignity → Recognition | **King** | — | Strong anchor |
+| Recognition → Dignity | **Queen** | — | Strong anchor |
+| Dignity → Harmony | **Gentleman** | Knight | Working |
+| Harmony → Dignity | **Lady** | Courtly Lady | Working |
+| Dignity → Comfort | **Patriarch** | Householder | Working |
+| Comfort → Dignity | **Matriarch** | — | Working |
+| Security → Recognition | **Champion** | Warrior | Strong |
+| Recognition → Security | **Diva** | Celebrity, Star | Unsettled |
+| Security → Harmony | **Paladin** | Guardian | Candidate |
+| Harmony → Security | **Great Mother** | Mother | Candidate |
+| Security → Comfort | **Steward** | Keeper | Strong |
+| Comfort → Security | **Hearthkeeper** | Hearth Mother | Working |
+| Acquisition → Recognition | **Fool** | Explorer | Strong anchor |
+| Recognition → Acquisition | **Trickster** | Jester | Strong anchor |
+| Acquisition → Harmony | **Architect** | Builder | Candidate |
+| Harmony → Acquisition | **Alchemist** | Weaver | Unsettled |
+| Acquisition → Comfort | **Charioteer** | Hunter | Unsettled |
+| Comfort → Acquisition | **Empress** | Gatherer | Unsettled |
 
 The unresolved cells are not defects to conceal. They show where the theory is still alive.
 
 ## What a name must survive
 
-A candidate must first fit the governing movement. No amount of mythic charge can rescue a reversed or distorted structure.
+A candidate must first fit the priority shape. No amount of mythic charge can rescue a symbol that obscures the weighting it is meant to compress.
 
 Then it must produce an immediate human image. A reader should feel a stance, scene, or social relation before reading a page of explanation. The symbol should carry both virtue and shadow. A King without tyranny, a Mother without engulfment, or a Trickster without manipulation has been sanitized into propaganda.
 
@@ -65,29 +65,29 @@ Finally, the figure must be inhabitable.
 
 > **Can a skilled actor enter the name and produce a recognizable human being?**
 
-The actor should be able to infer what the figure serves, what it fears losing, what it notices first, how it moves toward its object, and what happens to the body when that priority is threatened. If the name cannot guide breath, gaze, rhythm, distance, and intention, it may be a useful category but a weak archetype.
+The actor should be able to infer what the figure values, what it fears losing, what it notices first, and what happens to the body when those priorities are threatened. If the name cannot guide breath, gaze, rhythm, distance, and intention, it may be a useful category but a weak archetype.
 
 ## The symbol as compressed memory
 
 Inherited symbols are valuable because generations have already loaded them with contradiction. The King blesses and dominates. The Fool discovers and squanders. The Great Mother nourishes and devours. The Trickster frees the trapped system and corrodes the ground beneath every promise.
 
-That double edge matters. The shadow is not pasted onto the archetype afterward. It grows from the same structure as the virtue.
+That double edge matters. The shadow is not pasted onto the archetype afterward. It grows from the same priority shape as the virtue.
 
 The King’s dignity can become pride. The Steward’s preservation can become dead administration. The Fool’s openness can become scattered appetite. The Paladin’s protection can turn every ambiguity into heresy.
 
-A symbol earns its place when it reveals both the function and the characteristic way that function becomes possessed by itself.
+A symbol earns its place when it reveals both the legitimate pattern and the characteristic way that pattern can become rigid or possessed by itself.
 
 ## Masks, not species
 
 A person is not a King, Fool, Steward, or Great Mother in the way a creature belongs to a species. A person moves through these regions.
 
-Someone may wear the Fool while exploring, the Steward while handling money, the Gentleman in friendship, and the Paladin when protecting family. One mask may become a familiar attractor, but the person remains larger than the mask.
+Someone may wear the Fool while exploring, the Steward while handling money, the Gentleman in friendship, and the Paladin when protecting family. These are different coherent regions of identity, activated and reinforced by different situations. One may become a familiar attractor in a particular part of life without defining the person everywhere.
 
 This is why the structural description remains useful beneath the mythic name:
 
-> **Dignity governing Recognition under questions of status and legitimacy.**
+> **Dignity → Recognition under questions of status and legitimacy.**
 
-The coordinate tells us what is happening. The archetype tells us what it feels like, how it moves, what stories it repeats, and how it may go wrong.
+The coordinate records a compressed reading of the active priority shape. The archetype makes that shape memorable, embodied, and symbolically rich.
 
 ## Rules of the laboratory
 
@@ -101,6 +101,6 @@ Esoteric depth should make the symbol richer on return, not incomprehensible on 
 
 The table remains open until each name can survive structure, memory, shadow, and embodiment.
 
-Once the symbol has survived, the problem shifts from naming to perception: how do we recognize the movement before the costume?
+Once the symbol has survived, the problem shifts from naming to perception: how do we recognize the priority shape before the costume?
 
 → [Read priorities](../03-method/reading-priorities.md)
