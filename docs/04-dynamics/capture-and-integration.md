@@ -5,7 +5,11 @@ Reading priorities tells us what governs. Integration asks whether the governing
 A strong priority is not a sickness. A mask becomes dangerous when it refuses to leave.
 
 ```text
-FUNCTION  →  SPECIALIZATION  →  MONOPOLY  →  CAPTURE
+FUNCTION  →  SPECIALIZATION
+                    │
+          if it rejects correction
+                    ↓
+               MONOPOLY  →  CAPTURE
 ```
 
 The names remain under construction; the functions are the point. Every archetype carries a partial truth. The King sees dignity and rightful order. The Paladin sees danger, duty, and the cost of weak boundaries. The Great Mother sees vulnerability and the need for belonging. The Fool sees openings that caution would miss. The Steward remembers what must be preserved.
@@ -44,7 +48,7 @@ The integrating center is not a nineteenth archetype competing for office.
 
 It is the capacity to hear several priorities without being possessed by the loudest one; to judge timing and proportion; to preserve continuity across masks; to enter a configuration deliberately; and to leave when its task is complete.
 
-Call it conscience, soul, self, practical wisdom, or observing awareness. The metaphysical name can remain open while the function is clear.
+PBMM identifies this integrating function without settling its metaphysical seat. Conscience, practical wisdom, observing awareness, self, and soul name different aspects or interpretations of it; they should not be collapsed into synonyms.
 
 > **The mask says: this matters. The center must decide how much, when, and at what cost.**
 
