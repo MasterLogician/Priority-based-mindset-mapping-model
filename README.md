@@ -33,7 +33,7 @@ A strong priority is not a sickness. It becomes corrupt when it stops serving th
 
 - [The three domains and six priorities](docs/01-core-model/three-domains.md) — the core geometry
 - [The symbolic laboratory](docs/02-archetypes/symbolic-laboratory.md) — the eighteen masks and the search for names that deserve them
-- [Reading priorities](docs/03-method/analyzing-a-person.md) — notice, defense, pursuit, deprivation, and sacrifice
-- [Capture and integration](docs/04-dynamics/integration-and-pathology.md) — possession, fragmentation, and archetypal civil war
+- [Reading priorities](docs/03-method/reading-priorities.md) — notice, defense, pursuit, deprivation, and sacrifice
+- [Capture and integration](docs/04-dynamics/capture-and-integration.md) — possession, fragmentation, and archetypal civil war
 
 PBMM is a living theory under construction. The original root-level essays remain untouched as its raw development record.
