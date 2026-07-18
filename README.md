@@ -3,9 +3,10 @@
 ```text
                          WHAT RULES?
 
-             VALUE          STABILITY        RESOURCES
-          Dignity  ↔       Security  ↔      Acquisition  ↔
-         Recognition        Harmony           Comfort
+          VALUE             STABILITY          RESOURCES
+         Dignity            Security          Acquisition
+            ↕                  ↕                   ↕
+       Recognition          Harmony             Comfort
 ```
 
 > **A mindset is a geometry of priorities with direction and magnitude.**
