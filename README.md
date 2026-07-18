@@ -56,8 +56,7 @@ A function becomes pathological when it ceases serving the whole and attempts to
 ## Read deeper
 
 - [The three domains and six priorities](docs/01-core-model/three-domains.md)
-- [The archetype system](docs/02-archetypes/archetype-system.md)
-- [Archetype naming principles](docs/02-archetypes/naming-principles.md)
+- [The symbolic laboratory](docs/02-archetypes/symbolic-laboratory.md)
 - [Analyzing a person](docs/03-method/analyzing-a-person.md)
 - [Integration, capture, and social pathology](docs/04-dynamics/integration-and-pathology.md)
 
